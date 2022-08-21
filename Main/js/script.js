@@ -124,3 +124,18 @@
 
 })(jQuery);
     
+document.getElementById("Umbrella").addEventListener("click", function(){
+  window.open("https://a.co/d/eivfw9U")
+});
+document.getElementById("Crocs").addEventListener("click", function(){
+  window.open("https://a.co/d/dLE1hjW")
+});
+document.getElementById("Clothes").addEventListener("click", function(){
+  window.open("https://a.co/d/9hvMI3v")
+});
+document.getElementById("Sunscreen").addEventListener("click", function(){
+  window.open("https://a.co/d/5aZtZiu")
+});
+document.getElementById("Sunglasses").addEventListener("click", function(){
+  window.open("https://a.co/d/0sNAtCs")
+});
