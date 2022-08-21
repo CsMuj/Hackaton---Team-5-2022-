@@ -1224,4 +1224,16 @@ textarea.form-control {
   font-size: 30px;
 }
 
+.containers-a {
+  background-color:rgb(5,19,32);
+  backdrop-filter: blur(4px);
+  color: white;
+  justify-content: baseline;
+  padding: 10px;
+  margin-left: 25px;
+  border-radius: 10px;
+}
+.pos {
+  padding-right: 50px;
+}
 /*# sourceMappingURL=style. css.map */
